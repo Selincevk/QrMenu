@@ -15,4 +15,4 @@ db.json 📑 Veri kaynağımız olan JSON dosyasının yapısı burada bulunur. 
 Responsive tasarım ile her cihaza uyumlu mobil ve masaüstü dostu bir arayüzdür
 
 <h1>DEMO</h1>
-
+![](/menu.gif)
